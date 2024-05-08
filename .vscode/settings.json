@@ -1,0 +1,23 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".dart_tool": true,
+    ".idea": true,
+    "linux": true,
+    "macos": true,
+    "web": true,
+    "windows": true,
+    ".metadata": true,
+    "analysis_options.yaml": true,
+    "pubspec.lock": true,
+    "README.md": true,
+    ".gitignore": true,
+    "testanamado.iml": true,
+    ".github": true
+  }
+}
